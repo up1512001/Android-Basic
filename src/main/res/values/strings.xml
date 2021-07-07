@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Kotlin Application01</string>
+    <string name="hello_utsav">Hello Utsav!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="utsav_patel">Utsav Patel</string>
+</resources>
